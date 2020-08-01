@@ -10,7 +10,7 @@ So I will Update or Will Make a another repo for an advance ToDo App.
 
 ## Preview 📸
 
-|                                           |                                           |                                           |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| <img src="screenshots/errorPage.jpeg" width="400"> | <img src="screenshots/homepage.jpeg" width="400"> | <img src="screenshots/3.png" width="400"> |
+|                                           |                                           |                                           
+| ----------------------------------------- | ----------------------------------------- | 
+| <img src="screenshots/errorPage.jpeg" width="400"> | <img src="screenshots/homepage.jpeg" width="400"> |
 
