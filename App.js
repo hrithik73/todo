@@ -13,6 +13,7 @@ export default function App() {
     { text: 'Build a Minimal App', key: '5' },
   ]);
 
+
   const AddInput = (input) => {
     if (input.length > 3) {
       setToDo(prevTodo => {
