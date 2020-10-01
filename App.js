@@ -51,7 +51,6 @@ export default function App() {
         {/* the First View it wrap around the whole Screen */}
         <Header />
         <View style={styles.content}>
-          {/* This one for the  */}
           <AddToDo AddInput={AddInput} />
 
           <View style={styles.list}>
