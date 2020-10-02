@@ -2,11 +2,19 @@
 - Basic Todo App with few features and a normal UI.
 - For this App I have used the expo App.
 
-# Features 🚀
+## Features 🚀
 - Add TODO
 - Basic TODO Validation
 
-# Notes 💡
+## Improvements 🎨
+- Add a DATABASE service for data persistent.
+- Improve UI ( Add animations, Spinners etc ).
+- Implement Dark Mode.
+- Add more functionality ( Update TODO, Sort on PRIORITY basis etc ).
+- Any other improvement you think.
+
+
+## Notes 💡
 - Since the app is not powered by any DB, You will loose TODOs after closing the App
 - I will Update this App or will make another repo for an advance ToDo App.
 
