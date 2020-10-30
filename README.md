@@ -1,18 +1,28 @@
-# RN-Basic-ToDo
-The Basic Todo App with few features and a boring UI.
-For this App i have used the expo App.
+# RN-Basic-ToDo App 📝
+- Basic Todo App with few features and a normal UI.
+- For this App I have used the expo App.
 
-# Features
-Not any special features just you can add the Goal which will appear there untill you close the App.
+## Features 🚀
+- Add TODO
+- Basic TODO Validation
 
-# Update 
-So I will Update or Will Make a another repo for an advance ToDo App.
+## Improvements 🎨
+- Add a DATABASE service for data persistent.
+- Improve UI ( Add animations, Spinners etc ).
+- Implement Dark Mode.
+- Add more functionality ( Update TODO, Sort on PRIORITY basis etc ).
+- Any other improvement you think.
+
+
+## Notes 💡
+- Since the app is not powered by any DB, You will loose TODOs after closing the App
+- I will Update this App or will make another repo for an advance ToDo App.
 
 ## Preview 📸
 
 |                                           |                                           |                                           
 | ----------------------------------------- | ----------------------------------------- | 
-| <img src="screenshots/errorPage.jpeg" width="400"> | <img src="screenshots/homepage.jpeg" width="400"> |
+| <img src="screenshots/errorPage.jpeg" width="300"> | <img src="screenshots/homepage.jpeg" width="300"> |
 
 ## How to Use it in Your Local Enviroment
 
