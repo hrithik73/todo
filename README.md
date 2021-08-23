@@ -16,7 +16,6 @@
 
 ## Notes 💡
 - Since the app is not powered by any DB, You will loose TODOs after closing the App
-- I will Update this App or will make another repo for an advance ToDo App.
 
 ## Preview 📸
 
