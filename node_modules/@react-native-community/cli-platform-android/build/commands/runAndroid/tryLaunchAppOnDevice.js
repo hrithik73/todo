@@ -40,9 +40,10 @@ function tryLaunchAppOnDevice(device, packageName, adbPath, args) {
     appIdSuffix
   } = args;
   const packageNameWithSuffix = [appId || packageName, appIdSuffix].filter(Boolean).join('.');
+  const activityToLaunch = args.mainActivity.includes('.') ? args.mainActivity : [packageName, args.mainActivity].filter(Boolean).join('.');
 
   try {
-    const adbArgs = ['shell', 'am', 'start', '-n', `${packageNameWithSuffix}/${packageName}.${args.mainActivity}`];
+    const adbArgs = ['shell', 'am', 'start', '-n', `${packageNameWithSuffix}/${activityToLaunch}`];
 
     if (device) {
       adbArgs.unshift('-s', device);
